@@ -1,0 +1,7 @@
+sonar_scan:
+  image: elct9620/gitlab-sonar-scanner
+  tags:
+    - sonar
+  script:
+    - echo "scan"
+  allow_failure: true

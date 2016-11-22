@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4bf99af3-79fa-48a5-9710-6ac869e655dc" name="massage-udp" url="http://qc02.xqopen.com">
+        <fileTransfer host="qc02.xqopen.com" port="22" rootFolder="/data/d2/wwwroot/camerawk/" accessType="SFTP" password="dfd2dfdbdff5dfc5dfdadfcfdfc4df84dfc9dfc5dfc7df98df9adf9bdf9c" username="james">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
